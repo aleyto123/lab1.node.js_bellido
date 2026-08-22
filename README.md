@@ -36,4 +36,4 @@ Sistema en consola para la gestión de tareas (To-Do List) desarrollado en Node.
 
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone https://github.com/aleyto123/lab1.node.js_bellido.git
